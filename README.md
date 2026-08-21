@@ -28,7 +28,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Date picker](https://github.com/pushtell/react-bootstrap-date-picker) ⭐ 346 | 🐛 60 | 🌐 JavaScript | 📅 2021-01-03
+## [Date picker](https://github.com/pushtell/react-bootstrap-date-picker) ⭐ 345 | 🐛 60 | 🌐 JavaScript | 📅 2021-01-03
 
 ![React bootstrap Date picker demo](https://cdn.rawgit.com/pushtell/react-bootstrap-date-picker/master/documentation-images/date-picker-screencast.gif)
 
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
