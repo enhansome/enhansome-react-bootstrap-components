@@ -100,7 +100,7 @@ src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs
 
 ***
 
-## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,679 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-21
+## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,678 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-21
 
 ```html
 <LinkContainer to="/foo/bar">
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
