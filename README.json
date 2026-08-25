@@ -245,7 +245,7 @@
             "last_commit": "2026-08-21T19:45:42Z",
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
-            "stars": 1678
+            "stars": 1679
           },
           "title": "React router integration"
         }
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:59.636Z",
+    "last_updated": "2026-08-25T06:12:35.028Z",
     "original_repository": "Hermanya/awesome-react-bootstrap-components",
     "original_repository_id": 114076742,
     "original_repository_sha": "2fd09d7512bcf3730bb3d4a5095adeee96528e35",
