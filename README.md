@@ -6,7 +6,7 @@
 
 Most of the following components rely on [react-bootstrap](https://react-bootstrap.github.io/), you can check out their [default components over here](https://react-bootstrap.github.io/components.html).
 
-Also take a look at [classNamed](https://github.com/Hermanya/classnamed-components) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-19, it's the easiest way to create your own react component using bootstrap classes and utilities.
+Also take a look at [classNamed](https://github.com/Hermanya/classnamed-components) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-19, it's the easiest way to create your own react component using bootstrap classes and utilities.
 
 ***
 
@@ -34,7 +34,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Off-canvas Navbar](https://github.com/Hermanya/react-bootstrap-navbar-offcanvas) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-16 3⃣ 4️⃣
+## [Off-canvas Navbar](https://github.com/Hermanya/react-bootstrap-navbar-offcanvas) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-16 3⃣ 4️⃣
 
 ![Off-canvas Navbar demo](https://media.giphy.com/media/3ohk6wh0bYPXJgbNks/giphy.gif)
 
@@ -100,7 +100,7 @@ src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs
 
 ***
 
-## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,679 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-21
+## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,679 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-25
 
 ```html
 <LinkContainer to="/foo/bar">
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

@@ -89,7 +89,7 @@
             "last_commit": "2019-04-16T12:06:24Z",
             "owner": "Hermanya",
             "repo": "react-bootstrap-navbar-offcanvas",
-            "stars": 14
+            "stars": 13
           },
           "title": "Off-canvas Navbar 3⃣ 4️⃣"
         }
@@ -242,7 +242,7 @@
             "archived": false,
             "id": 22641745,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:45:42Z",
+            "last_commit": "2026-08-25T13:02:17Z",
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
             "stars": 1679
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:45:36.741Z",
+    "last_updated": "2026-08-26T10:48:41.094Z",
     "original_repository": "Hermanya/awesome-react-bootstrap-components",
     "original_repository_id": 114076742,
     "original_repository_sha": "2fd09d7512bcf3730bb3d4a5095adeee96528e35",
