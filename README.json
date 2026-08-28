@@ -16,7 +16,8 @@
             "repo": "react-bootstrap-image-cropper",
             "stars": 13
           },
-          "title": "Image Cropper"
+          "title": "Image Cropper",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "react-bootstrap-easy-dialog",
             "stars": 9
           },
-          "title": "Easy Dialog"
+          "title": "Easy Dialog",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "react-bootstrap-dialog",
             "stars": 59
           },
-          "title": "Dialog"
+          "title": "Dialog",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "react-bootstrap-confirmation",
             "stars": 6
           },
-          "title": "Confirmation"
+          "title": "Confirmation",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "react-bootstrap-date-picker",
             "stars": 345
           },
-          "title": "Date picker"
+          "title": "Date picker",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "react-bootstrap-navbar-offcanvas",
             "stars": 13
           },
-          "title": "Off-canvas Navbar 3⃣ 4️⃣"
+          "title": "Off-canvas Navbar 3⃣ 4️⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         }
       ],
       "title": "Overview"
@@ -112,7 +118,8 @@
             "repo": "react-bootstrap-typeahead",
             "stars": 1009
           },
-          "title": "Typeahead autocomplete 4️⃣"
+          "title": "Typeahead autocomplete 4️⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -127,7 +134,8 @@
             "repo": "react-bootstrap-sweetalert",
             "stars": 249
           },
-          "title": "Sweet alert 3⃣"
+          "title": "Sweet alert 3⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -142,7 +150,8 @@
             "repo": "react-bootstrap-tabs",
             "stars": 11
           },
-          "title": "Tabs"
+          "title": "Tabs",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -157,7 +166,8 @@
             "repo": "react-bootstrap-daterangepicker",
             "stars": 469
           },
-          "title": "Date range picker 3⃣"
+          "title": "Date range picker 3⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -172,7 +182,8 @@
             "repo": "react-bootstrap-select",
             "stars": 72
           },
-          "title": "Select 3⃣"
+          "title": "Select 3⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -187,7 +198,8 @@
             "repo": "react-bootstrap-switch",
             "stars": 64
           },
-          "title": "Switch ️3⃣"
+          "title": "Switch ️3⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -202,7 +214,8 @@
             "repo": "react-bootstrap-slider",
             "stars": 59
           },
-          "title": "Slider ️3⃣"
+          "title": "Slider ️3⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -217,7 +230,8 @@
             "repo": "react-bootstrap-table",
             "stars": 2208
           },
-          "title": "Table 3⃣ 4️⃣"
+          "title": "Table 3⃣ 4️⃣",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -232,7 +246,8 @@
             "repo": "react-bootstrap-button-loader",
             "stars": 26
           },
-          "title": "Button loader"
+          "title": "Button loader",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         },
         {
           "children": [],
@@ -242,19 +257,20 @@
             "archived": false,
             "id": 22641745,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T13:06:09Z",
+            "last_commit": "2026-08-28T15:41:01Z",
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
             "stars": 1679
           },
-          "title": "React router integration"
+          "title": "React router integration",
+          "first_seen": "2026-08-28T21:10:40.727Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:21:40.148Z",
+    "last_updated": "2026-08-28T21:10:40.727Z",
     "original_repository_info": {
       "archived": false,
       "id": 114076742,
