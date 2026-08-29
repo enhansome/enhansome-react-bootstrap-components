@@ -9,12 +9,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Select, crop, preview, edit, all in one!",
+            "homepage": null,
             "id": 209906238,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-21T06:12:07Z",
+            "open_issues": 3,
             "owner": "zhaoyao91",
             "repo": "react-bootstrap-image-cropper",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "title": "Image Cropper",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -25,12 +30,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "React Bootstrap Dialog made easy",
+            "homepage": null,
             "id": 209666061,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-09-26T03:13:12Z",
+            "open_issues": 1,
             "owner": "zhaoyao91",
             "repo": "react-bootstrap-easy-dialog",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "title": "Easy Dialog",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -41,12 +51,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Quick and Easy. React Component to show a modal dialog with react-bootstrap. Alternative of window.confirm, window.alert, and window.prompt.",
+            "homepage": "https://akiroom.github.io/react-bootstrap-dialog/",
             "id": 68004175,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T03:05:11Z",
+            "open_issues": 41,
             "owner": "akiroom",
             "repo": "react-bootstrap-dialog",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "title": "Dialog",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -57,12 +72,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A library to easily display alerts and confirmations using React and Bootstrap",
+            "homepage": "https://nicolas-van.github.io/react-bootstrap-confirmation/",
             "id": 218486579,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-29T06:25:07Z",
+            "open_issues": 17,
             "owner": "nicolas-van",
             "repo": "react-bootstrap-confirmation",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "Confirmation",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -73,12 +93,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "React-Bootstrap based date picker.",
+            "homepage": null,
             "id": 47360625,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-03T01:09:16Z",
+            "open_issues": 60,
             "owner": "pushtell",
             "repo": "react-bootstrap-date-picker",
-            "stars": 345
+            "stars": 345,
+            "topics": []
           },
           "title": "Date picker",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -89,12 +114,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "⚛️ 🅱️ 🗂 ↔️ Off-canvas navigation for react using bootstrap",
+            "homepage": null,
             "id": 114503383,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-16T12:06:24Z",
+            "open_issues": 0,
             "owner": "Hermanya",
             "repo": "react-bootstrap-navbar-offcanvas",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bootstrap",
+              "navbar",
+              "offcanvas",
+              "offcanvas-menu",
+              "reactjs"
+            ]
           },
           "title": "Off-canvas Navbar 3⃣ 4️⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -111,12 +147,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "React typeahead with Bootstrap styling",
+            "homepage": "http://ericgio.github.io/react-bootstrap-typeahead/",
             "id": 45373657,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-25T22:59:56Z",
+            "open_issues": 19,
             "owner": "ericgio",
             "repo": "react-bootstrap-typeahead",
-            "stars": 1009
+            "stars": 1009,
+            "topics": [
+              "bootstrap",
+              "react",
+              "typeahead"
+            ]
           },
           "title": "Typeahead autocomplete 4️⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -127,12 +172,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A React implementation of SweetAlert",
+            "homepage": "https://djorg83.github.io/react-bootstrap-sweetalert/",
             "id": 47882345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-10-18T12:37:40Z",
+            "open_issues": 11,
             "owner": "djorg83",
             "repo": "react-bootstrap-sweetalert",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "alert",
+              "bootstrap",
+              "confirm",
+              "javascript",
+              "react",
+              "sweetalert",
+              "typescript"
+            ]
           },
           "title": "Sweet alert 3⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -143,12 +201,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "React Bootstrap 4 Tabs Component",
+            "homepage": null,
             "id": 65663936,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-03T10:14:02Z",
+            "open_issues": 4,
             "owner": "freeranger",
             "repo": "react-bootstrap-tabs",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "Tabs",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -159,12 +222,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A date/time picker for react (using bootstrap). This is a react wrapper around the bootstrap-daterangepicker project.",
+            "homepage": "http://projects.skratchdot.com/react-bootstrap-daterangepicker/",
             "id": 22120268,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-11T08:28:22Z",
+            "open_issues": 26,
             "owner": "skratchdot",
             "repo": "react-bootstrap-daterangepicker",
-            "stars": 469
+            "stars": 469,
+            "topics": []
           },
           "title": "Date range picker 3⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -175,12 +243,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A custom select for react-bootstrap using button dropdown",
+            "homepage": "https://www.npmjs.com/package/react-bootstrap-select",
             "id": 30423398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-28T23:34:25Z",
+            "open_issues": 11,
             "owner": "tjwebb",
             "repo": "react-bootstrap-select",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "title": "Select 3⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -191,12 +264,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Turn checkboxes into toggle switches.",
+            "homepage": "https://www.npmjs.com/package/react-bootstrap-switch",
             "id": 41589742,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-26T13:28:12Z",
+            "open_issues": 8,
             "owner": "Julusian",
             "repo": "react-bootstrap-switch",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "title": "Switch ️3⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -207,12 +285,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A React Slider control for Bootstrap 4",
+            "homepage": null,
             "id": 55833113,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-30T09:47:00Z",
+            "open_issues": 30,
             "owner": "brownieboy",
             "repo": "react-bootstrap-slider",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "title": "Slider ️3⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -223,12 +306,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Bootstrap table built with React.js",
+            "homepage": "https://allenfang.github.io/react-bootstrap-table/",
             "id": 33768009,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-17T16:53:37Z",
+            "open_issues": 440,
             "owner": "AllenFang",
             "repo": "react-bootstrap-table",
-            "stars": 2208
+            "stars": 2208,
+            "topics": [
+              "bootstrap-table",
+              "react",
+              "react-table",
+              "table"
+            ]
           },
           "title": "Table 3⃣ 4️⃣",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -239,12 +332,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "React ButtonLoader with Bootstrap flavor",
+            "homepage": "https://yury-dymov.github.io/react-bootstrap-button-loader/",
             "id": 62580810,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T01:29:46Z",
+            "open_issues": 8,
             "owner": "yury-dymov",
             "repo": "react-bootstrap-button-loader",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "button",
+              "component",
+              "loader",
+              "react",
+              "spinner"
+            ]
           },
           "title": "Button loader",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -255,12 +359,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Integration between React Router and React-Bootstrap",
+            "homepage": null,
             "id": 22641745,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:41:01Z",
+            "open_issues": 29,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
-            "stars": 1679
+            "stars": 1679,
+            "topics": []
           },
           "title": "React router integration",
           "first_seen": "2026-08-28T21:10:40.727Z"
@@ -270,15 +379,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:40.727Z",
+    "last_updated": "2026-08-29T04:39:48.065Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⚛️ React.js components made using 🅱️ Bootstrap",
+      "homepage": null,
       "id": 114076742,
       "language": null,
+      "license": null,
       "last_commit": "2019-10-30T15:07:32Z",
+      "open_issues": 2,
       "owner": "Hermanya",
       "repo": "awesome-react-bootstrap-components",
-      "stars": 626
+      "stars": 626,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bootstrap",
+        "reactjs"
+      ]
     },
     "original_repository_sha": "2fd09d7512bcf3730bb3d4a5095adeee96528e35",
     "enhanced_repository": "enhansome/enhansome-react-bootstrap-components",
