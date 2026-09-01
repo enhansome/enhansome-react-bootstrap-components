@@ -52,7 +52,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Sweet alert](https://github.com/djorg83/react-bootstrap-sweetalert) ⭐ 249 | 🐛 11 | 🌐 TypeScript | 📅 2022-10-18 3⃣
+## [Sweet alert](https://github.com/djorg83/react-bootstrap-sweetalert) ⭐ 250 | 🐛 11 | 🌐 TypeScript | 📅 2022-10-18 3⃣
 
 ![React bootstrap sweet alert demo](https://media.giphy.com/media/l0CLTXKYGSLN5nPkA/giphy.gif)
 
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

@@ -181,7 +181,7 @@
             "open_issues": 11,
             "owner": "djorg83",
             "repo": "react-bootstrap-sweetalert",
-            "stars": 249,
+            "stars": 250,
             "topics": [
               "alert",
               "bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:35:13.864Z",
+    "last_updated": "2026-09-01T14:48:42.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
