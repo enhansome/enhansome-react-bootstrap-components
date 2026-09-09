@@ -315,7 +315,7 @@
             "open_issues": 440,
             "owner": "AllenFang",
             "repo": "react-bootstrap-table",
-            "stars": 2208,
+            "stars": 2207,
             "topics": [
               "bootstrap-table",
               "react",
@@ -368,7 +368,7 @@
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
-            "stars": 1678,
+            "stars": 1676,
             "topics": []
           },
           "title": "React router integration",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:28:49.201Z",
+    "last_updated": "2026-09-09T14:30:08.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
