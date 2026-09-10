@@ -156,7 +156,7 @@
             "open_issues": 19,
             "owner": "ericgio",
             "repo": "react-bootstrap-typeahead",
-            "stars": 1009,
+            "stars": 1008,
             "topics": [
               "bootstrap",
               "react",
@@ -315,7 +315,7 @@
             "open_issues": 440,
             "owner": "AllenFang",
             "repo": "react-bootstrap-table",
-            "stars": 2207,
+            "stars": 2206,
             "topics": [
               "bootstrap-table",
               "react",
@@ -364,7 +364,7 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T18:38:57Z",
+            "last_commit": "2026-09-09T19:06:37Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:30:08.507Z",
+    "last_updated": "2026-09-10T14:22:05.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
@@ -391,7 +391,7 @@
       "open_issues": 2,
       "owner": "Hermanya",
       "repo": "awesome-react-bootstrap-components",
-      "stars": 626,
+      "stars": 627,
       "topics": [
         "awesome",
         "awesome-list",
