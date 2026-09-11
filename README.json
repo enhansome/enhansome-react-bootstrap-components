@@ -156,7 +156,7 @@
             "open_issues": 19,
             "owner": "ericgio",
             "repo": "react-bootstrap-typeahead",
-            "stars": 1008,
+            "stars": 1007,
             "topics": [
               "bootstrap",
               "react",
@@ -364,7 +364,7 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T19:06:37Z",
+            "last_commit": "2026-09-10T15:11:54Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:22:05.553Z",
+    "last_updated": "2026-09-11T14:22:03.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
