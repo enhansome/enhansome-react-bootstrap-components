@@ -364,7 +364,7 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T18:40:30Z",
+            "last_commit": "2026-10-15T14:12:10Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:02:50.318Z",
+    "last_updated": "2026-10-15T14:56:14.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
