@@ -87,7 +87,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Table](https://github.com/AllenFang/react-bootstrap-table) ⭐ 2,205 | 🐛 440 | 🌐 JavaScript | 📅 2024-05-17 3⃣ 4️⃣
+## [Table](https://github.com/AllenFang/react-bootstrap-table) ⭐ 2,204 | 🐛 440 | 🌐 JavaScript | 📅 2024-05-17 3⃣ 4️⃣
 
 <img alt="React bootstrap table screen" src="https://camo.githubusercontent.com/9cff213848aba00fca5ce1c6a316d036bbd00042/687474703a2f2f692e696d6775722e636f6d2f4f7631774d73652e706e67" width="480"/> 
 
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

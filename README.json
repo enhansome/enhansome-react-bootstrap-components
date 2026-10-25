@@ -315,7 +315,7 @@
             "open_issues": 440,
             "owner": "AllenFang",
             "repo": "react-bootstrap-table",
-            "stars": 2205,
+            "stars": 2204,
             "topics": [
               "bootstrap-table",
               "react",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:58:38.732Z",
+    "last_updated": "2026-10-25T14:19:23.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
