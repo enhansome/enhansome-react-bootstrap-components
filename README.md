@@ -46,7 +46,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Typeahead autocomplete](https://github.com/ericgio/react-bootstrap-typeahead) ⭐ 1,006 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-25 4️⃣
+## [Typeahead autocomplete](https://github.com/ericgio/react-bootstrap-typeahead) ⭐ 1,007 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-25 4️⃣
 
 ![React bootstrap Typeahead autocomplete](https://media.giphy.com/media/3oxHQrGSbABpbrJK6I/giphy.gif)
 
@@ -64,7 +64,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Date range picker](https://github.com/skratchdot/react-bootstrap-daterangepicker) ⭐ 470 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-11 3⃣
+## [Date range picker](https://github.com/skratchdot/react-bootstrap-daterangepicker) ⭐ 469 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-11 3⃣
 
 ![React bootstrap date range picker demo](https://media.giphy.com/media/3ohs81CDOQkeGT7FN6/giphy.gif)
 
@@ -87,7 +87,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Table](https://github.com/AllenFang/react-bootstrap-table) ⭐ 2,204 | 🐛 440 | 🌐 JavaScript | 📅 2024-05-17 3⃣ 4️⃣
+## [Table](https://github.com/AllenFang/react-bootstrap-table) ⭐ 2,204 | 🐛 439 | 🌐 JavaScript | 📅 2024-05-17 3⃣ 4️⃣
 
 <img alt="React bootstrap table screen" src="https://camo.githubusercontent.com/9cff213848aba00fca5ce1c6a316d036bbd00042/687474703a2f2f692e696d6775722e636f6d2f4f7631774d73652e706e67" width="480"/> 
 
@@ -100,7 +100,7 @@ src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs
 
 ***
 
-## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,675 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-27
+## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,675 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-30
 
 ```html
 <LinkContainer to="/foo/bar">
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

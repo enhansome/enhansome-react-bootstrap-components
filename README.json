@@ -156,7 +156,7 @@
             "open_issues": 19,
             "owner": "ericgio",
             "repo": "react-bootstrap-typeahead",
-            "stars": 1006,
+            "stars": 1007,
             "topics": [
               "bootstrap",
               "react",
@@ -231,7 +231,7 @@
             "open_issues": 26,
             "owner": "skratchdot",
             "repo": "react-bootstrap-daterangepicker",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "title": "Date range picker 3⃣",
@@ -312,7 +312,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-05-17T16:53:37Z",
-            "open_issues": 440,
+            "open_issues": 439,
             "owner": "AllenFang",
             "repo": "react-bootstrap-table",
             "stars": 2204,
@@ -364,7 +364,7 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T16:13:06Z",
+            "last_commit": "2026-10-30T15:44:27Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:52:42.611Z",
+    "last_updated": "2026-10-30T16:40:19.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
