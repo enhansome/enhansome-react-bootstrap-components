@@ -64,7 +64,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Date range picker](https://github.com/skratchdot/react-bootstrap-daterangepicker) ⭐ 469 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-11 3⃣
+## [Date range picker](https://github.com/skratchdot/react-bootstrap-daterangepicker) ⭐ 468 | 🐛 26 | 🌐 JavaScript | 📅 2023-10-11 3⃣
 
 ![React bootstrap date range picker demo](https://media.giphy.com/media/3ohs81CDOQkeGT7FN6/giphy.gif)
 
@@ -100,7 +100,7 @@ src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs
 
 ***
 
-## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,675 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-30
+## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,674 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-30
 
 ```html
 <LinkContainer to="/foo/bar">
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
