@@ -364,11 +364,11 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:44:16Z",
+            "last_commit": "2026-11-06T00:03:07Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
-            "stars": 1675,
+            "stars": 1676,
             "topics": []
           },
           "title": "React router integration",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:58:05.727Z",
+    "last_updated": "2026-11-06T17:25:57.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
