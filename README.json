@@ -156,7 +156,7 @@
             "open_issues": 19,
             "owner": "ericgio",
             "repo": "react-bootstrap-typeahead",
-            "stars": 1007,
+            "stars": 1006,
             "topics": [
               "bootstrap",
               "react",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:39:40.789Z",
+    "last_updated": "2026-11-10T17:43:43.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
