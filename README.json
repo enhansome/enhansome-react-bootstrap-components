@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:43:43.208Z",
+    "last_updated": "2026-11-11T17:51:15.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
@@ -391,7 +391,7 @@
       "open_issues": 2,
       "owner": "Hermanya",
       "repo": "awesome-react-bootstrap-components",
-      "stars": 628,
+      "stars": 627,
       "topics": [
         "awesome",
         "awesome-list",
