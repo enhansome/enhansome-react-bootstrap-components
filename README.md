@@ -46,7 +46,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Typeahead autocomplete](https://github.com/ericgio/react-bootstrap-typeahead) ⭐ 1,006 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-03 4️⃣
+## [Typeahead autocomplete](https://github.com/ericgio/react-bootstrap-typeahead) ⭐ 1,006 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-03 4️⃣
 
 ![React bootstrap Typeahead autocomplete](https://media.giphy.com/media/3oxHQrGSbABpbrJK6I/giphy.gif)
 
@@ -100,7 +100,7 @@ src="https://github.com/yury-dymov/react-bootstrap-button-loader/raw/master/docs
 
 ***
 
-## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,676 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-11
+## [React router integration](https://github.com/react-bootstrap/react-router-bootstrap) ⭐ 1,676 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-14
 
 ```html
 <LinkContainer to="/foo/bar">
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
