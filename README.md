@@ -70,7 +70,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Select](https://github.com/tjwebb/react-bootstrap-select) ⭐ 72 | 🐛 11 | 🌐 JavaScript | 📅 2019-04-28 3⃣
+## [Select](https://github.com/tjwebb/react-bootstrap-select) ⭐ 73 | 🐛 11 | 🌐 JavaScript | 📅 2019-04-28 3⃣
 
 <img alt="React bootstrap select demo" src="https://camo.githubusercontent.com/1efb3d2209dfc4b24281b0a1bc90b5f51ce06793/687474703a2f2f692e696d6775722e636f6d2f797049785a5a322e676966" width="480"/>
 ---
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

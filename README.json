@@ -252,7 +252,7 @@
             "open_issues": 11,
             "owner": "tjwebb",
             "repo": "react-bootstrap-select",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "title": "Select 3⃣",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:46:11.561Z",
+    "last_updated": "2026-11-23T22:00:04.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
