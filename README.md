@@ -58,7 +58,7 @@ Also take a look at [classNamed](https://github.com/Hermanya/classnamed-componen
 
 ***
 
-## [Tabs](https://github.com/freeranger/react-bootstrap-tabs) ⭐ 11 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-03
+## [Tabs](https://github.com/freeranger/react-bootstrap-tabs) ⭐ 10 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-03
 
 ![React bootstrap tabs demo example](https://media.giphy.com/media/xUOxfiIzbp13vMxvWw/giphy.gif)
 
@@ -121,4 +121,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

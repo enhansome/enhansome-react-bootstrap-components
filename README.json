@@ -210,7 +210,7 @@
             "open_issues": 4,
             "owner": "freeranger",
             "repo": "react-bootstrap-tabs",
-            "stars": 11,
+            "stars": 10,
             "topics": []
           },
           "title": "Tabs",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:53:12.107Z",
+    "last_updated": "2026-11-26T19:33:03.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
