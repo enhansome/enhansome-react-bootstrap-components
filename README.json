@@ -231,7 +231,7 @@
             "open_issues": 26,
             "owner": "skratchdot",
             "repo": "react-bootstrap-daterangepicker",
-            "stars": 468,
+            "stars": 469,
             "topics": []
           },
           "title": "Date range picker 3⃣",
@@ -364,7 +364,7 @@
             "id": 22641745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T17:12:35Z",
+            "last_commit": "2026-11-27T17:00:48Z",
             "open_issues": 31,
             "owner": "react-bootstrap",
             "repo": "react-router-bootstrap",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:33:03.239Z",
+    "last_updated": "2026-11-27T19:25:57.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ React.js components made using 🅱️ Bootstrap",
